@@ -1,0 +1,8 @@
+{
+  "name": "Distance Soul",
+  "description": "A private, real-time connection space for couples to share journals, plans, and moments securely using Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
